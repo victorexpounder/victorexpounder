@@ -1,4 +1,4 @@
-👋 Hey there, I'm Victor Eze, a passionate FullStack MERN developer with a knack for crafting seamless digital experiences. 🚀
+👋 Hey there, I'm **Victor Eze**, a passionate FullStack MERN developer with a knack for crafting seamless digital experiences. 🚀
 
 🌐 Explore my world: [ezevictordev.com.ng](https://www.ezevictordev.com.ng)
 
@@ -28,25 +28,8 @@ In the digital realm, the Mobtechs website shines as a beacon of information. De
 
 ---
 
-👨‍🏫 **Experience:**
 
-🏫 **Blessed Schools | FULLSTACK DEVELOPER**
-Dec 2020 - Present | Lagos, Nigeria
-Transformed concepts into reality by developing FullStack applications. Leveraged cutting-edge technologies like React, Node.js, Express, and Firebase to create seamless digital solutions.
 
-🌐 **Freelancer at Upwork | FULLSTACK DEVELOPER**
-Jan 2022 - Present | Upwork
-Crafted tailor-made FullStack applications, breathing life into clients' visions. Translated requirements into code, ensuring top-notch results.
-
-🌐 **Mobtechs Inc. | SENIOR WEB DEVELOPER**
-May 2021 - 2023 | Ogun, Nigeria
-Led the development of innovative FullStack applications, harnessing the power of React, Node.js, and Express. Elevated user experiences through technology.
-
-🚀 **CampBuzz | Co-Founder**
-June 2023 - Present | Ogun, Nigeria
-Co-founded CampBuzz, where FullStack magic transforms ideas into digital realities. Empowering innovation and driving change through technology.
-
----
 
 🛠️ **Skills:**
 
