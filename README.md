@@ -1,6 +1,6 @@
 👋 Hey there, I'm **Victor Eze**, a passionate FullStack MERN developer with a knack for crafting seamless digital experiences. 🚀
 
-🌐 Explore my world: [ezevictordev.com.ng](https://www.ezevictordev.com.ng)
+🌐 Explore my world: [ezevictordev.com.ng](https://www.ezevictordev.com.ng) 
 
 📬 Contact me at: victorexpounder@gmail.com | 📞 +2439135617599
 
