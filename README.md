@@ -8,7 +8,7 @@
 
 🔗 Let's connect professionally on LinkedIn: [linkedin.com/in/victor-eze-dev](https://www.linkedin.com/in/victor-eze-dev)
 
-📆 Last updated: June 17th, 2023
+
 
 ---
 
