@@ -9,26 +9,7 @@
 🔗 Let's connect professionally on LinkedIn: [linkedin.com/in/victor-eze-dev](https://www.linkedin.com/in/victor-eze-dev)
 
 
-
 ---
-
-🚀 **Projects:**
-
-📚 **BCBT**
-A dynamic FullStack web application powered by React.js, Firebase, Material UI, and Node.js. Created to empower educators, BCBT allows teachers to seamlessly manage student data, upload exam questions, and instantly access student results. Transforming education, one line of code at a time.
-
-🍔 **YUMZ**
-Fueling the food industry with innovation, Book-A-Meal is a FullStack masterpiece constructed using React.js, Node.js, Express.js, Firebase, and MongoDB. It revolutionizes restaurant operations by enabling caterers to update menus and customers to place orders effortlessly.
-
-🏫 **Blessed School Website**
-Crafted with HTML, CSS, JavaScript, and a touch of Tailwind magic, the Blessed School website delivers information in style. Its intuitive UI ensures seamless navigation, while the Contact Section empowers visitors to connect directly with the institution.
-
-🌐 **Mobtechs Website**
-In the digital realm, the Mobtechs website shines as a beacon of information. Designed with HTML, CSS, JavaScript, and a dash of Bootstrap flair, this official company website showcases vital details and welcomes visitor interactions through its Contact Section.
-
----
-
-
 
 
 🛠️ **Skills:**
@@ -41,16 +22,6 @@ In the digital realm, the Mobtechs website shines as a beacon of information. De
 
 📦 **Stack:** MERN Stack
 
----
-
-🎓 **Education:**
-
-🎓 **BELLS UNIVERSITY OF TECHNOLOGY**
-BTECH IN COMPUTER SCIENCE | Nov 2021 - 2026
-Ogun State, Nigeria
-
-🎓 **BLESSED WIN & ViC SCHOOLS**
-Graduated Nov 2020 | Ogun State, Nigeria
 
 ---
 
