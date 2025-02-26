@@ -9,6 +9,7 @@
 🔗 Let's connect professionally on LinkedIn: [linkedin.com/in/victor-eze-dev](https://www.linkedin.com/in/victor-eze-dev)
 
 
+
 ---
 
 
@@ -25,9 +26,6 @@
 
 ---
 
-📬 Let's connect and collaborate:
-LinkedIn: [linkedin.com/in/victor-eze-dev](https://www.linkedin.com/in/victor-eze-dev)
-Email: victorexpounder@gmail.com
-Portfolio: [ezevictordev.com.ng](https://www.ezevictordev.com.ng)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorexpounder&show_icons=true&locale=en&layout=compact" alt="victorexpounder" /></p>
 
-🚀 Join me on this journey to create exceptional digital experiences that shape the world!
+
